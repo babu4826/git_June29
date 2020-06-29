@@ -10,6 +10,7 @@ public class DefaultValues {
 	static String fName;
 	static boolean result;
 	static char gender;
+	int x =67;
 
 	public static void main(String[] args) {
 
