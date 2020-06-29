@@ -8,6 +8,7 @@ public class Client1 extends Teacher {
 		gender = 'M';
 		course = "java";
 		dept = "CSE";
+		System.out.println("Hi Hello !!");
 	}
 	
 }
