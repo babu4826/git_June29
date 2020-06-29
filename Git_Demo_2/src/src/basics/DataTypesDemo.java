@@ -16,6 +16,8 @@ public class DataTypesDemo {
 		String course = "java";
 		boolean result = true;
 		
+		int x = 90;
+		
 	}
 
 }
