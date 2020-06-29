@@ -12,6 +12,7 @@ public class UpdateVariablesDemo {
 		
 		System.out.println(marks);  // 800
 		
+		int x = 888;
 	}
 
 }
