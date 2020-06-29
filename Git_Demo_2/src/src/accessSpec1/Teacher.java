@@ -6,6 +6,7 @@ public class Teacher {
 	 char gender;
 	protected String course;
 	public String dept;
+	private int duration;
 
 	public static void main(String[] args) {
 		
